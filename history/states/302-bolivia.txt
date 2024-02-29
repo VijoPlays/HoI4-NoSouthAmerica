@@ -9,7 +9,7 @@ state={
 	state_category = city
 
 	history={
-		owner = BOL
+		
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = ARG
+		
 		buildings = {
 			infrastructure = 2
 			10953 = {
